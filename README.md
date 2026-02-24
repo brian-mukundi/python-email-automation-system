@@ -136,14 +136,7 @@ python main.py
 - Docker containerization
 - Web dashboard
 - Email tracking analytics
-- Cloud deployment
-
----
-
-## 👤 Author
-
-Your Name  
-Python Automation Developer  
+- Cloud deployment  
 
 ---
 
@@ -154,3 +147,4 @@ This project is open-source and available for educational and portfolio purposes
 ---
 
 ⭐ If you found this project useful, consider starring the repository.
+
