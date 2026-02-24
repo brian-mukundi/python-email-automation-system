@@ -1,0 +1,11 @@
+# Do not upload environment secrets
+.env
+
+ # Do not upload logs
+ *.log
+
+#Ignore python cache
+__pycache__/
+*.pyc
+
+venv/
