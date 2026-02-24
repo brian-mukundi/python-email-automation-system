@@ -140,11 +140,6 @@ python main.py
 
 ---
 
-## 📜 License
 
-This project is open-source and available for educational and portfolio purposes.
 
----
-
-⭐ If you found this project useful, consider starring the repository.
 
