@@ -67,7 +67,7 @@ python-email-automation/
 ### 1️⃣ Clone Repository
 
 ```
-git clone https://github.com/yourusername/python-email-automation.git
+git clone https://github.com/brian-mukundi/python-email-automation.git
 cd python-email-automation
 ```
 
@@ -139,6 +139,7 @@ python main.py
 - Cloud deployment  
 
 ---
+
 
 
 
